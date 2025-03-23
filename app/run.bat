@@ -1,0 +1,1 @@
+java -jar APR_Animace_nedvedd.jar

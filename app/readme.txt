@@ -1,0 +1,1 @@
+Program spusťte pomocí scriptu "run.bat".
