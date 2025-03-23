@@ -1,4 +1,4 @@
-package com.nedvedd.animace;
+package com.nedvedd.animace.drawing;
 
 import javax.swing.*;
 import java.awt.*;

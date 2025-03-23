@@ -1,4 +1,4 @@
-package com.nedvedd.animace;
+package com.nedvedd.animace.drawing;
 
 /**
  * Vyctovy typ pro vyber vykreslovaneho modelu

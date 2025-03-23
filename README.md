@@ -1,2 +1,3 @@
-# APR_Animace
-Semestrální úkol – Animace Java Swing, IT2-LO2025
+# APR Animace
+## Semestrální úkol – Animace Java Swing
+### IT2 – LO2025

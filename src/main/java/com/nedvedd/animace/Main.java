@@ -1,5 +1,8 @@
 package com.nedvedd.animace;
 
+import com.nedvedd.animace.drawing.DrawingModel;
+import com.nedvedd.animace.drawing.DrawingPanel;
+
 import javax.swing.*;
 import java.awt.*;
 
